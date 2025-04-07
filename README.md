@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi! It's me Lucie! 👾;Welcome to my GitHub! :D; I LIKE COMPUTER 🖥️;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+It's+me+Lucie!+👾;Welcome+to+my+GitHub!+:D;+I+LIKE+COMPUTER+🖥️;)](https://git.io/typing-svg)
 ### Actively learning
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) [![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](#) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
