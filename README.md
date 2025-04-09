@@ -17,9 +17,4 @@
 - Font: FiraCode 
 
 ### Currently learning at
-[![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)](#) <br>
-[![Antisyphon](https://img.shields.io/badge/Antisyphon%20Training-2b2b2b?style=for-the-badge&logo=none&logoColor=white)](#) <br>
-[![Hack The Box](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](#) <br>
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](#) <br>
-[![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](#) <br>
-
+[![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)](#)
